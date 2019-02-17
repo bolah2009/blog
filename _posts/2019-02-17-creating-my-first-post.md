@@ -1,9 +1,7 @@
 ---
-title: "My first blog post"
+title: "My first blog post !"
 date: 2019-02-17
 ---
-
-## My first blog post!
 
 Hey! This is a draft and would be updated later on…
 I am creating this post as one of my first blog post ever!
