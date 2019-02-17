@@ -1,15 +1,12 @@
-title: Your awesome title
-author: GitHub User
-email: your-email@domain.com
+title: My journey to becoming the world class developer ! 🚀
+author: @bolah2009
+email: bola_ahmed2002@yahoo.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-
+ Here I post on weekly basis on how I am moving to my ultimate goal of becoming a world class developer. I try to post what I learn, my goals, achievements and wins!
 # social links
-twitter_username: your-twitter-handle
-github_username:  your-github-handle
+twitter_username: bolah2009
+github_username:  bolah2009
 
 show_excerpts: true # set to false to remove excerpts on the homepage
 
-theme: jekyll-theme-hacker
+theme: minima
