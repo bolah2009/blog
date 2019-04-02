@@ -9,4 +9,4 @@ github_username:  bolah2009
 
 show_excerpts: true # set to false to remove excerpts on the homepage
 
-theme: jekyll-theme-midnight
+theme: jekyll-theme-minimal
